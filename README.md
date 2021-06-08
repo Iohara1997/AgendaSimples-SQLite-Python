@@ -16,3 +16,4 @@
 
 * to-do:
     * Adicionar paginação na lista de contatos.
+    * Auto incremente ID no inserir.
